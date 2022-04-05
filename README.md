@@ -2,15 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+Polishing my flutter skills 
+Design credit.
 
-This project is a starting point for a Flutter application.
+https://www.figma.com/file/n0Rd5Bwf59TUQbEXzOKm7W/Car-Rental-Application-(Community)?node-id=0%3A1
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screens:
+![Frame 1](https://user-images.githubusercontent.com/63158771/161830595-e51df098-79b0-46f7-86f9-8c0d3404f0a5.png)
+![Frame 2](https://user-images.githubusercontent.com/63158771/161830608-833782b4-a604-427b-80fa-7648cddbf9f2.png)
+![Frame 3](https://user-images.githubusercontent.com/63158771/161830613-3fe9599a-4aaf-45ae-9445-297d7c670d9e.png)
