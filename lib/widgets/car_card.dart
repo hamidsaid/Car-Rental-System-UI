@@ -18,6 +18,7 @@ class CarCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    var device = MediaQuery.of(context).size;
     return Padding(
         padding: const EdgeInsets.symmetric(horizontal: 25.0, vertical: 25.0),
         child: Stack(
@@ -34,7 +35,10 @@ class CarCard extends StatelessWidget {
             Positioned(
               top: top,
               left: 10,
-              child: Image.asset(imagePath),
+              child: Container(
+                width: device.width * 0.5,
+                child: Image.asset(imagePath),
+              ),
             ),
             Positioned(
               bottom: 10,
