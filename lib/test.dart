@@ -43,13 +43,14 @@ class _MyHomePageState extends State<MyHomePage> {
               onPressed: () => _selectDate(context),
               child: Text("pick date"),
               style: TextButton.styleFrom(
-                  primary: kDarkColor,
-                  backgroundColor: kMainColor,
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.all(
-                      Radius.circular(20),
-                    ),
-                  )),
+                primary: kDarkColor,
+                backgroundColor: kMainColor,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.all(
+                    Radius.circular(20),
+                  ),
+                ),
+              ),
             )
           ],
         ),
